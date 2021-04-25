@@ -1,0 +1,8 @@
+INFO:add:Start time 2021-01-11 18:01:22.977834
+INFO:add:End time 2021-01-11 18:01:23.978500
+INFO:add:Execution time 0:00:01.000666
+INFO:add:Parameters passed are 2.0 and 10.0
+INFO:sub:Start time 2021-01-11 18:01:23.979503
+INFO:sub:End time 2021-01-11 18:01:24.979888
+INFO:sub:Execution time 0:00:01.000385
+INFO:sub:Parameters passed are 2.0 and 10.0
